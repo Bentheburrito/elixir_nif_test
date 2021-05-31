@@ -25,3 +25,8 @@ elixir_nif_test-*.tar
 
 # Temporary files for e.g. tests
 /tmp
+
+.vscode/
+.elixir_ls/
+.DS_Store
+.env
