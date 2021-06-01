@@ -30,3 +30,6 @@ elixir_nif_test-*.tar
 .elixir_ls/
 .DS_Store
 .env
+
+# Rustler
+priv/
